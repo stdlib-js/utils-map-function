@@ -136,6 +136,12 @@ console.log( arr );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/async/map-function`][@stdlib/utils/async/map-function]: invoke a function n times and return an array of accumulated function return values.
+
 </section>
 
 <!-- /.related -->
@@ -196,6 +202,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-map-function/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/async/map-function]: https://github.com/stdlib-js/utils-async-map-function
+
+<!-- </related-links> -->
 
 </section>
 
