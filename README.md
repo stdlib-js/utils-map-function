@@ -148,7 +148,7 @@ console.log( arr );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/async/map-function`][@stdlib/utils/async/map-function]</span><span class="delimiter">: </span><span class="description">invoke a function n times and return an array of accumulated function return values.</span>
+-   <span class="package-name">[`@stdlib/utils-async/map-function`][@stdlib/utils/async/map-function]</span><span class="delimiter">: </span><span class="description">invoke a function n times and return an array of accumulated function return values.</span>
 
 </section>
 
