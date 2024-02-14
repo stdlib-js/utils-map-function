@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mapFun from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-map-function@deno/mod.js';
+import mapFun from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-map-function@v0.2.0-deno/mod.js';
 ```
 
 #### mapFun( fcn, n\[, thisArg ] )
@@ -113,7 +113,7 @@ console.log( context.count );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mapFun from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-map-function@deno/mod.js';
+import mapFun from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-map-function@v0.2.0-deno/mod.js';
 
 function rand( i ) {
     return randu() * i * 10.0;
