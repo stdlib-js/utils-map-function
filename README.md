@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import mapFun from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-map-function@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-map-function/tags). For example,
+
+```javascript
 import mapFun from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-map-function@v0.2.2-deno/mod.js';
 ```
 
@@ -113,7 +118,7 @@ console.log( context.count );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mapFun from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-map-function@v0.2.2-deno/mod.js';
+import mapFun from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-map-function@deno/mod.js';
 
 function rand( i ) {
     return randu() * i * 10.0;
